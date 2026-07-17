@@ -1,0 +1,12 @@
+/* 1. Global Reset & Base Styles */
+
+body {
+  font-family: 'Segoe UI' ;
+  line-height: 1.6;
+  background-color: black;
+  color: white;
+  margin:0;
+  padding:0;
+  text-align: center;
+}
+
